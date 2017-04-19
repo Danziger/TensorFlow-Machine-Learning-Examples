@@ -2,6 +2,10 @@
 
 A bunch of TensorFlow's basic features and Machine Learning examples:
 
+- tensorflow-hello-world.py
+
+  Well, you know... It should always be there.
+
 - tensorflow-basic-example.py
   
   A very basic Google TensorFlow example using add, subtract, multiply, divide, cast, constant and placeholder.
